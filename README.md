@@ -94,6 +94,6 @@ Spring continues to be a backbone of modern enterprise Java application developm
 
 ## [DOCS](./docs/)
 
-1. [XML Configuration]("/docs/XMLConguration.md")
-2. [Annotations Configuration]("/docs/AnnotationsConfig.md")
-3. [Java Configuration]("/docs/JavaConfig.md")
+1. [XML Configuration](docs/XMLConguration.md)
+2. [Annotations Configuration](docs/AnnotationsConfig.md)
+3. [Java Configuration](docs/JavaConfig.md)
