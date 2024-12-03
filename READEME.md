@@ -87,7 +87,7 @@ The Spring Framework is part of a larger ecosystem, which includes:
 - **Spring Data**: Simplifies database access and ORM usage.
 - **Spring Security**: Secures applications.
 - **Spring Cloud**: Enables cloud-native application development.
-- **Spring Batch**: Handles batch processing tasks.
+- **Spring Batch**: Handles batch processing tasks. 
 - **Spring Integration**: Provides enterprise integration patterns.
 
 Spring continues to be a backbone of modern enterprise Java application development due to its powerful features and the evolving ecosystem.
